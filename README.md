@@ -1,5 +1,7 @@
 # somebook
 
+### Site is live at [https://somebook.netlify.com/](https://somebook.netlify.com/)
+
 ## Project setup
 ```
 npm install
