@@ -1,32 +1,34 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+  <div>
+    <br>
+  <nav class="navbar">
+      <div class="container">
+    <div class="navbar-brand">
+      <h1 class="title">{{ $t("label.title") }}</h1>
     </div>
-    <router-view/>
+      <div class="navbar-end">
+<div class="select">
+    <select v-model="$i18n.locale">
+      <option v-for="(lang, i) in langs" :key="`Lang${i}`" :value="lang">{{ lang }}</option>
+    </select>
+</div>
+      </div>
+      </div>
+  </nav>
+  <Home />
   </div>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+<script>
+import Home from "@/views/Home.vue"
+export default {
+  name : "App",
+    data () {
+    return { langs: ['en', 'fr'] }
+  },
+  components : {
+    Home
+  }
 }
+</script>
 
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
-</style>
