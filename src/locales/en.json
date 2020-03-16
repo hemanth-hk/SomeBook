@@ -1,0 +1,63 @@
+{
+  "label" : {
+    "title" : "Some Book",
+    "name" : "Name of the book",
+    "author" : "Name of the author",
+    "rating" : "Rating",
+    "description" : "About the book"
+  },
+  "book1" : {
+    "name" : "The Lord of the Rings",
+    "author" : "J.R.R. Tolkien",
+    "rating" : "4.5 / 5",
+    "mainText" : {
+      "para1" : "In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell by chance into the hands of the hobbit Bilbo Baggins.",
+      "para2" : "From Sauron's fastness in the Dark Tower of Mordor, his power spread far and wide. Sauron gathered all the Great Rings to him, but always he searched for the One Ring that would complete his dominion.",
+      "para3" : "When Bilbo reached his eleventy-first birthday he disappeared, bequeathing to his young cousin Frodo the Ruling Ring and a perilous quest: to journey across Middle-earth, deep into the shadow of the Dark Lord, and destroy the Ring by casting it into the Cracks of Doom."
+    }
+  },
+
+  "book2" : {
+    "name" : "To Kill a Mockingbird",
+    "author" : "Harper Lee",
+    "rating" : "4.25 / 5",
+    "mainText" : {
+      "para1" : "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.",
+      "para2" : "Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.",
+      "para3" : ""
+    }
+  },
+
+  "book3" : {
+    "name" : "The Wonderful Wizard of Oz",
+    "author" : "L. Frank Baum, W.W. Denslow (Illustrator)",
+    "rating" : "3.99 / 5",
+    "mainText" : {
+      "para1" : "When Dorothy and her little dog Toto are caught in a tornado, they and their Kansas farmhouse are suddenly transported to Oz, where Munchkins live, monkeys fly and Wicked Witches rule. Desperate to return home, and with the Wicked Witch of the West on their trail, Dorothy and Toto - together with new friends the Tin Woodsman, Scarecrow and cowardly Lion - embark on a fantastic quest along the Yellow Brick Road in search of the Emerald City. There they hope to meet the legendary, all-powerful Wizard of Oz, who alone may hold the power to grant their every wish.",
+      "para2" : "Just as captivating as it was a hundred years ago, this is a story that all ages will love.",
+      "para3" : ""
+    }
+  },
+
+  "book4" : {
+    "name" : "One Flew Over the Cuckoo's Nest",
+    "author" : "Ken Kesey",
+    "rating" : "4.20 / 5",
+    "mainText" : {
+      "para1" : "Tyrannical Nurse Ratched rules her ward in an Oregon State mental hospital with a strict and unbending routine, unopposed by her patients, who remain cowed by mind-numbing medication and the threat of electric shock therapy. But her regime is disrupted by the arrival of McMurphy – the swaggering, fun-loving trickster with a devilish grin who resolves to oppose her rules on behalf of his fellow inmates.",
+      "para2" : "His struggle is seen through the eyes of Chief Bromden, a seemingly mute half-Indian patient who understands McMurphy's heroic attempt to do battle with the powers that keep them imprisoned. Ken Kesey's extraordinary first novel is an exuberant, ribald and devastatingly honest portrayal of the boundaries between sanity and madness.",
+      "para3" : ""
+    }
+  },
+
+  "book5" : {
+    "name" : "The Shining",
+    "author" : "Stephen King",
+    "rating" : "4.22 / 5",
+    "mainText" : {
+      "para1" : "Jack Torrance's new job at the Overlook Hotel is the perfect chance for a fresh start. As the off-season caretaker at the atmospheric old hotel, he'll have plenty of time to spend reconnecting with his family and working on his writing.",
+      "para2" : "But as the harsh winter weather sets in, the idyllic location feels ever more remote...and more sinister. And the only one to notice the strange and terrible forces gathering around the Overlook is Danny Torrance, a uniquely gifted five-year-old.",
+      "para3" : ""
+    }
+  }
+}

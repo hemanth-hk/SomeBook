@@ -1,0 +1,63 @@
+{
+    "label" : {
+      "title" : "Un livre",
+      "name" : "Nom du livre",
+      "author" : "Nom de l'auteur",
+      "rating" : "Évaluation",
+      "description" : "À propos du livre"
+    },
+    "book1" : {
+      "name" : "Le Seigneur des Anneaux",
+      "author" : "J.R.R. Tolkien",
+      "rating" : "4,5 / 5",
+      "mainText" : {
+        "para1" : "Dans l'Antiquité, les Anneaux de pouvoir ont été fabriqués par les forgerons elfes, et Sauron, le Seigneur des Ténèbres, a forgé l'Anneau Unique, le remplissant de son propre pouvoir afin qu'il puisse gouverner tous les autres. Mais l'Anneau Unique lui a été enlevé, et bien qu'il l'ait cherché à travers la Terre du Milieu, il est resté perdu pour lui. Après de nombreux âges, il est tombé par hasard entre les mains du Hobbit Bilbo Baggins.",
+        "para2" : "De la solidité de Sauron dans la Tour sombre du Mordor, son pouvoir s'est répandu très loin. Sauron a rassemblé tous les Grands Anneaux pour lui, mais il a toujours cherché l'Anneau Unique qui compléterait sa domination.",
+        "para3" : "Lorsque Bilbo a atteint son onzième et unième anniversaire, il a disparu, léguant à son jeune cousin Frodon l'Anneau régnant et une quête périlleuse: voyager à travers la Terre du Milieu, profondément dans l'ombre du Seigneur des Ténèbres, et détruire l'Anneau en le jetant dans le Fissures de Doom."
+      }
+    },
+  
+    "book2" : {
+      "name" : "Tuer un oiseau moqueur",
+      "author" : "Harper Lee",
+      "rating" : "4,25 / 5",
+      "mainText" : {
+        "para1" : "Le roman inoubliable d'une enfance dans une ville du sud endormie et la crise de conscience qui l'a secoué, To Kill A Mockingbird est devenu à la fois un best-seller instantané et un succès critique lors de sa première publication en 1960. Il a remporté le prix Pulitzer en 1961 et a ensuite été transformé en un film primé aux Oscars, également un classique.",
+        "para2" : "Compassionnel, dramatique et profondément émouvant, To Kill A Mockingbird emmène les lecteurs aux racines du comportement humain - à l'innocence et à l'expérience, à la gentillesse et à la cruauté, à l'amour et à la haine, à l'humour et au pathétique. Maintenant, avec plus de 18 millions d'exemplaires imprimés et traduits en quarante langues, cette histoire régionale d'une jeune femme de l'Alabama revendique un attrait universel. Harper Lee a toujours considéré son livre comme une simple histoire d'amour. Aujourd'hui, il est considéré comme un chef-d'œuvre de la littérature américaine.",
+        "para3" : ""
+      }
+    },
+  
+    "book3" : {
+      "name" : "Le merveilleux magicien d'Oz",
+      "author" : "L. Frank Baum, W.W. Denslow (illustrateur)",
+      "rating" : "3,99 / 5",
+      "mainText" : {
+        "para1" : "Lorsque Dorothy et son petit chien Toto sont pris dans une tornade, eux et leur ferme du Kansas sont soudainement transportés à Oz, où vivent Munchkins, des singes volent et la règle des méchantes sorcières. Désespérés de rentrer chez eux, et avec la méchante sorcière de l'Ouest sur leur piste, Dorothy et Toto - ainsi que de nouveaux amis Tin Woodsman, Scarecrow et Cowardly Lion - se lancent dans une quête fantastique le long de la route de la brique jaune à la recherche de la ville d'émeraude . Là, ils espèrent rencontrer le légendaire et tout puissant magicien d'Oz, qui seul peut détenir le pouvoir d'exaucer tous leurs souhaits.",
+        "para2" : "Aussi captivante qu'elle était il y a cent ans, c'est une histoire que tous les âges adoreront.",
+        "para3" : ""
+      }
+    },
+  
+    "book4" : {
+      "name" : "Vol au dessus d'un nid de coucou",
+      "author" : "Ken Kesey",
+      "rating" : "4,20 / 5",
+      "mainText" : {
+        "para1" : "L'infirmière tyrannique Ratched dirige sa salle dans un hôpital psychiatrique de l'État de l'Oregon avec une routine stricte et inflexible, sans opposition de ses patients, qui restent intimidés par des médicaments anesthésiants et la menace d'une thérapie par choc électrique. Mais son régime est perturbé par l'arrivée de McMurphy - le filou fanfaron et fanfaron avec un sourire diabolique qui décide de s'opposer à ses règles au nom de ses codétenus.",
+        "para2" : "Sa lutte est vue à travers les yeux du chef Bromden, un patient à moitié indien, apparemment muet, qui comprend la tentative héroïque de McMurphy de se battre contre les pouvoirs qui les maintiennent en prison. Le premier roman extraordinaire de Ken Kesey est une représentation exubérante, grivoise et d'une honnêteté dévastatrice des frontières entre la raison et la folie.",
+        "para3" : ""
+      }
+    },
+  
+    "book5" : {
+      "name" : "Le brillant",
+      "author" : "Stephen King",
+      "rating" : "4,22 / 5",
+      "mainText" : {
+        "para1" : "Le nouvel emploi de Jack Torrance à l'hôtel Overlook est l'occasion rêvée pour un nouveau départ. En tant que gardien hors saison dans le vieil hôtel atmosphérique, il aura beaucoup de temps à consacrer à renouer avec sa famille et à travailler sur son écriture.",
+        "para2" : "Mais alors que les rudes conditions météorologiques hivernales s'installe, l'emplacement idyllique se sent de plus en plus éloigné ... et plus sinistre. Et le seul à remarquer les forces étranges et terribles qui se rassemblent autour de l'Overlook est Danny Torrance, un enfant de cinq ans particulièrement doué.",
+        "para3" : ""
+      }
+    }
+  }
